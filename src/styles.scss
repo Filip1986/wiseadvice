@@ -1,0 +1,146 @@
+@import 'assets/css/variables.scss';
+
+/* You can add global styles to this file, and also import other style files */
+html {
+  height: 100%;
+}
+
+/*hover over menu items color*/
+@font-face {
+  font-family: 'jockey';
+  src: url('assets/fonts/JockeyOne-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'playFair';
+  src: url('assets/fonts/PlayfairDisplay-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'permian';
+  src: url('assets/fonts/PermianSerifTypeface.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'droid';
+  src: url('assets/fonts/DroidSerif-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'bree';
+  src: url('assets/fonts/BreeSerif-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+body p {
+  font-size: 1.5rem;
+  margin: 0px;
+}
+body h3 {
+  font-family: 'Lobster', cursive !important;
+  color: #864c40;
+  font-size: 2rem!important;
+  text-align: center;
+}
+
+body {
+	background-color:#334fff;
+  background-image: url('assets/images/pattern20.png');
+  background-attachment: fixed;
+  font-family: Arial,Helvetica,Verdana;
+  font-size: 14px;
+  line-height: 22px;
+  color: #666;
+  position: relative;
+  margin: 0px;
+}
+
+/* hide menu items if mmenu is not fully loaded - to get rid of the flickering */
+nav#menu:not(.mm-menu)
+{
+  display: none;
+}
+
+/*loading circle*/
+.loading{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: calc(50% - 50px);
+  left: calc(50% - 50px);
+
+  box-sizing: border-box;
+  border-top: 8px solid $loading-color2;
+  border-right: 8px solid $loading-color1;
+  border-bottom: 8px solid $loading-color1;
+  border-left: 8px solid $loading-color1;
+  border-radius: 100%;
+
+  animation: rotate 1s infinite linear;
+}
+@keyframes rotate{
+  from {transform: rotate(0deg) translate3d(0,0,0)}
+  to {transform: rotate(359deg) translate3d(0,0,0)}
+}
+
+#page{
+  min-height: 100vh!important;
+}
+
+#content{
+  padding: 30px;
+}
+
+.hamburger-inner, .hamburger-inner:after, .hamburger-inner:before{
+  background-color: $hamburger-color;
+}
+
+.mm-menu {
+  width: 80%;
+  min-width: 140px;
+  max-width: 350px!important;
+  background-color: #0d77b6;
+}
+.mm-listview,
+.mm-next{
+  background-color: #47a3da;
+  color: #fff;
+}
+.mm-menu em.mm-counter,
+.mm-menu .mm-navbar a, .mm-menu .mm-navbar>*,
+.mm-menu .mm-search input{
+  color: #fff;
+}
+.mm-menu.mm-hoverselected .mm-listview > li > a:not(.mm-fullsubopen):hover{
+  background: #59CAFF;
+}
+
+.mm-menu .mm-search input{
+  background: #fff;
+}
+.mm-menu .mm-listview>li .mm-next:after{
+  border-color: #fff;
+}
+
+  @media all and (min-width: 550px) {
+    html.mm-opening .mm-slideout {
+      -webkit-transform: translate(350px, 0)!important;
+      -moz-transform: translate(350px, 0)!important;
+      -ms-transform: translate(350px, 0)!important;
+      -o-transform: translate(350px, 0)!important;
+      transform: translate(350px, 0)!important;
+    }
+  }
+
+.white-txt-shadow-effect {
+  text-align: center;
+  color: #fff;
+  font-size: 4em;
+  font-weight: bold;
+  font-family: Helvetica;
+  text-shadow: 0 1px 0 #cccccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbbbbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaaaaa, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.15);
+}

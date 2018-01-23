@@ -1,0 +1,16 @@
+[
+{ "_id" : { "$oid" : "599fff8db77209daf8c032e6" }, "body" : "Mai mult decât orice altceva, învăţătura Bibliei a avut o influenţă binefăcătoare asupra omenirii, a adus mai multe binecuvântări asupra societăţii.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032e7" }, "body" : "Mai bine să fii singur decât într-o tovărăşie îndoielnică.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032e8" }, "body" : "Este imposibil să guvernezi lumea fără Dumnezeu şi fără Biblie.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032e9" }, "body" : "Prietenia este o plantă cu creştere lentă şi trebuie să îndure şi să reziste la şocurile adversităţii înainte de a fi îndreptăţită la acest apelativ.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032ea" }, "body" : "Disciplina este sufletul unei armate.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032eb" }, "body" : "E mai bine să nu te scuzi, decât să dai o explicaţie proastă.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032ec" }, "body" : "Îngrijorarea este dobânda plătită de cei care împrumută bucluc.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032ed" }, "body" : "Fii bine crescut cu toată lumea, dar intim cu câţiva; şi testează-i bine înainte să le oferi încrederea ta.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032ee" }, "body" : "Moralitatea este un izvor necesar al guvernării populare.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032ef" }, "body" : "Încurajarea literaturii şi a artelor este o responsabilitate pe care fiecare bun cetăţean i-o datorează ţării lui.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032f0" }, "body" : "Am considerat întotdeauna căsătoria ca fiind unul dintre cele mai importante evenimente din viaţa unui om, temelia fericirii sau a nenorocirii.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032f1" }, "body" : "Mintea omului nu poate fi controlată decât prin propriile forţe şi prin raţiune.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032f2" }, "body" : "Un popor fără religie nu poate fi condus decât cu tunurile.", "author" : " George Washington " },
+{ "_id" : { "$oid" : "599fff8db77209daf8c032f3" }, "body" : "Guvernarea nu este raţiune. Guvernarea nu este elocinţă. Este forţă. Şi, ca focul, este un servitor periculos şi un stăpân înfricoşător.", "author" : " George Washington " }
+]

@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "59a001bbb77209daf8c038e0" }, "body" : "După Sfântul Care v-a chemat pe voi, fiți și voi înșivă sfinți în toată petrecerea vieții.", "author" : "Sfântul Petru" },
+{ "_id" : { "$oid" : "59a001bbb77209daf8c038e1" }, "body" : "O singură zi înaintea Domnului este ca o mie de ani și o mie de ani ca o singură zi.", "author" : "Sfântul Petru" },
+{ "_id" : { "$oid" : "59a001bbb77209daf8c038e2" }, "body" : "Iubirea acoperă mulțime de păcate.", "author" : "Sfântul Petru" },
+{ "_id" : { "$oid" : "59a001bbb77209daf8c038e3" }, "body" : "Pe El, fără să-L fi văzut, Îl iubiți. Întru El, deși acum nu-L vedeți, voi credeți și vă bucurați cu bucurie negrăită și preamărită, dobândind ca răsplată a credinței voastre viața veșnică.", "author" : "Sfântul Petru" }
+]

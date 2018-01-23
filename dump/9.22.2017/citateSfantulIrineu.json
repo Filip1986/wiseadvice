@@ -1,0 +1,11 @@
+[
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c0" }, "body" : "Fiul și Sfântul Duh sunt cele doua mâini ale Tatălui.", "author" : "Sfântul Irineu" },
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c1" }, "body" : "Veșnic în căutarea adevărului și nicicând găsindu-l.", "author" : "Sfântul Irineu" },
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c2" }, "body" : "Dumnezeu S-a făcut om, ca omul să poată deveni dumnezeu.", "author" : "Sfântul Irineu" },
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c3" }, "body" : "Fără Dumnezeu nu este posibil a-L cunoaște pe Dumnezeu.", "author" : "Sfântul Irineu" },
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c4" }, "body" : "Fiul lui Dumnezeu S-a întrupat și, prin aceasta, a început recapitularea noastră în Sine.", "author" : "Sfântul Irineu" },
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c5" }, "body" : "Hristos S-a întrupat pentru o operă universală, reintegrând și aducând toate lucrurile în Sine.", "author" : "Sfântul Irineu" },
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c6" }, "body" : "Dumnezeu va avea întotdeauna ceva ce să-l învețe pe om, iar omul va avea întotdeauna ceva de învățat de la Dumnezeu.", "author" : "Sfântul Irineu" },
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c7" }, "body" : "Slava lui Dumnezeu este omul.", "author" : "Sfântul Irineu" },
+{ "_id" : { "$oid" : "59a001a7b77209daf8c038c8" }, "body" : "Omul viu este slava lui Dumnezeu.", "author" : "Sfântul Irineu" }
+]

@@ -1,0 +1,5 @@
+[
+{ "_id" : { "$oid" : "59a0014fb77209daf8c037e6" }, "body" : "În afara Bisericii nu există mântuire.", "author" : "Sfântul Ciprian" },
+{ "_id" : { "$oid" : "59a0014fb77209daf8c037e7" }, "body" : "Cine nu are ca mamă Biserica, nu Îl poate avea pe Dumnezeu ca Tată.", "author" : "Sfântul Ciprian" },
+{ "_id" : { "$oid" : "59a0014fb77209daf8c037e8" }, "body" : "Dacă Dumnezeu ne este nouă Stăpân şi Părinte, să urmăm răbdarea Stăpânului şi Părintelui nostru, căci slujitorii se cuvine să se supună şi fiii să semene părintelui.", "author" : "Sfântul Ciprian" }
+]

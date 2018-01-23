@@ -1,0 +1,11 @@
+[
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c02563" }, "name" : "Anunt", "body" : "\"Vând câine: mănâncă orice şi îi plac foarte mult copiii.\"" },
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c02564" }, "name" : "Anunt", "body" : "\"Căutăm bărbat pentru lucru la fabrica de dinamită. Trebuie să fie dispus să călătorească.\"" },
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c02565" }, "name" : "Anunt", "body" : "\"Service Auto. Ridicăm şi livrăm maşina gratuit. Dacă ne încerci o dată, nu mai pleci în altă parte.\"" },
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c02566" }, "name" : "Anunt", "body" : "\"Eşti analfabet? Scrie-ne azi şi te ajutăm pe gratis.\"" },
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c02567" }, "name" : "Anunt", "body" : "\"Castron pe placul oricărei gospodine cu fund rotund pentru batere eficientă.\"" },
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c02568" }, "name" : "Anunt", "body" : "\"De vânzare: Birou de epocă pentru o doamnă cu picioare subţiri şi sertare largi.\"" },
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c02569" }, "name" : "Anunt", "body" : "\"Maşini uzate: De ce să te duci în altă parte ca să fii păcălit? Vino aici.\"" },
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c0256a" }, "name" : "Anunt", "body" : "\"Prăjitor de pâine: Un cadou apreciat de întreaga familie. Arde pâinea automat.\"" },
+{ "_id" : { "$oid" : "599fdfdbb77209daf8c0256b" }, "name" : "Anunt", "body" : "\"Căutăm un om să aibă grijă de un lot de vaci care nu fumează şi nici nu bea.\"" }
+]

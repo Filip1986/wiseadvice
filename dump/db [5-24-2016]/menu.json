@@ -1,0 +1,885 @@
+{ 
+    "_id" : ObjectId("560acac05549dbd889bf7af3"), 
+    "Menu_1" : {
+        "name" : "Artă", 
+        "menuLevel" : NumberInt(0), 
+        "id" : NumberInt(1), 
+        "icon" : "fa fa-paint-brush", 
+        "href" : "/folder1", 
+        "lastMenu" : "false", 
+        "searchBy" : "arta artă"
+    }, 
+    "Category1_1" : {
+        "name" : "Bancuri", 
+        "menuLevel" : NumberInt(1), 
+        "id" : NumberInt(11), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category1_1", 
+        "lastMenu" : "false", 
+        "searchBy" : "bancuri jokes"
+    }, 
+    "Subcat1_1_1" : {
+        "name" : "Animale", 
+        "menuLevel" : NumberInt(11), 
+        "id" : NumberInt(11), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory1_1_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "Glume animale"
+    }, 
+    "Subcat1_1_2" : {
+        "name" : "Diverse", 
+        "menuLevel" : NumberInt(11), 
+        "id" : NumberInt(11), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory1_1_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "Glume diverse"
+    }, 
+    "Category1_2" : {
+        "name" : "Culmi", 
+        "menuLevel" : NumberInt(1), 
+        "id" : NumberInt(1), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category1_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "Culmi maxim"
+    }, 
+    "Category1_3" : {
+        "name" : "Ghicitori", 
+        "menuLevel" : NumberInt(1), 
+        "id" : NumberInt(1), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category1_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "Ghicitori riddles"
+    }, 
+    "Category1_4" : {
+        "name" : "Anunţuri Româneşti", 
+        "menuLevel" : NumberInt(1), 
+        "id" : NumberInt(1), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category1_4", 
+        "lastMenu" : "true", 
+        "searchBy" : "anunturi romanesti"
+    }, 
+    "Menu_2" : {
+        "name" : "Liste", 
+        "menuLevel" : NumberInt(0), 
+        "id" : NumberInt(2), 
+        "icon" : "fa fa-list", 
+        "href" : "/folder2", 
+        "lastMenu" : "false", 
+        "searchBy" : "Liste lists list's"
+    }, 
+    "Category2_1" : {
+        "name" : "Top Cărţi", 
+        "menuLevel" : NumberInt(2), 
+        "id" : NumberInt(21), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category2_1", 
+        "lastMenu" : "false", 
+        "searchBy" : "top carti top books top cărţi"
+    }, 
+    "Subcat2_1_1" : {
+        "name" : "Crestine", 
+        "menuLevel" : NumberInt(21), 
+        "id" : NumberInt(21), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory2_1_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "carti crestine creştine christian christians"
+    }, 
+    "Subcat2_1_2" : {
+        "name" : "Interesante", 
+        "menuLevel" : NumberInt(21), 
+        "id" : NumberInt(21), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory2_1_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "carti interesante interesting"
+    }, 
+    "Category2_2" : {
+        "name" : "Top Desene", 
+        "menuLevel" : NumberInt(2), 
+        "id" : NumberInt(2), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category2_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "top desene top animation top cartoons"
+    }, 
+    "Category2_3" : {
+        "name" : "Top Filme", 
+        "menuLevel" : NumberInt(2), 
+        "id" : NumberInt(2), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category2_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "top filme top movies"
+    }, 
+    "Menu_3" : {
+        "name" : "Media", 
+        "menuLevel" : NumberInt(0), 
+        "id" : NumberInt(3), 
+        "icon" : "fa fa-play-circle-o", 
+        "href" : "/folder3", 
+        "lastMenu" : "false", 
+        "searchBy" : "Media"
+    }, 
+    "Category3_1" : {
+        "name" : "Gifs", 
+        "menuLevel" : NumberInt(3), 
+        "id" : NumberInt(31), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category3_1", 
+        "lastMenu" : "false", 
+        "searchBy" : "gifs"
+    }, 
+    "Subcat3_1_1" : {
+        "menuLevel" : NumberInt(31), 
+        "id" : NumberInt(31), 
+        "name" : "Cool", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_1_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "cool gifs cool misto mişto"
+    }, 
+    "Subcat3_1_2" : {
+        "menuLevel" : NumberInt(31), 
+        "id" : NumberInt(31), 
+        "name" : "Fail", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_1_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "fail gifs fail"
+    }, 
+    "Subcat3_1_3" : {
+        "menuLevel" : NumberInt(31), 
+        "id" : NumberInt(31), 
+        "name" : "Funny", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_1_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "funnz gifs funnz comice caraghioase"
+    }, 
+    "Subcat3_1_4" : {
+        "name" : "Interesting", 
+        "menuLevel" : NumberInt(31), 
+        "id" : NumberInt(31), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_1_4", 
+        "lastMenu" : "true", 
+        "searchBy" : "interesante interesting"
+    }, 
+    "Subcat3_1_5" : {
+        "name" : "Wow", 
+        "menuLevel" : NumberInt(31), 
+        "id" : NumberInt(31), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_1_6", 
+        "lastMenu" : "true", 
+        "searchBy" : "reacţii reactii reaction gifs"
+    }, 
+    "Subcat3_1_6" : {
+        "name" : "Reaction", 
+        "menuLevel" : NumberInt(31), 
+        "id" : NumberInt(31), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_1_5", 
+        "lastMenu" : "true", 
+        "searchBy" : "reacţii reactii reaction gifs"
+    }, 
+    "Category3_2" : {
+        "name" : "Youtube", 
+        "menuLevel" : NumberInt(3), 
+        "id" : NumberInt(32), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category3_2", 
+        "lastMenu" : "false", 
+        "searchBy" : "youtube"
+    }, 
+    "Subcat3_2_1" : {
+        "name" : "Documentaries", 
+        "menuLevel" : NumberInt(32), 
+        "id" : NumberInt(32), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_2_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "documentare"
+    }, 
+    "Subcat3_2_2" : {
+        "name" : "Funny", 
+        "menuLevel" : NumberInt(32), 
+        "id" : NumberInt(32), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_2_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "funnz comice hazlii caraghioase"
+    }, 
+    "Subcat3_2_3" : {
+        "name" : "Good Channels", 
+        "menuLevel" : NumberInt(32), 
+        "id" : NumberInt(32), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_2_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "canale bune"
+    }, 
+    "Subcat3_2_4" : {
+        "name" : "Music", 
+        "menuLevel" : NumberInt(32), 
+        "id" : NumberInt(3241), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/subcategory3_2_4", 
+        "lastMenu" : "false", 
+        "searchBy" : "interesting interesante misto mişto"
+    }, 
+    "Subcat3_2_4_1" : {
+        "name" : "Calm", 
+        "menuLevel" : NumberInt(3241), 
+        "id" : NumberInt(3241), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_2_4_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "music calm"
+    }, 
+    "Subcat3_2_4_2" : {
+        "name" : "Chill", 
+        "menuLevel" : NumberInt(3241), 
+        "id" : NumberInt(3241), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_2_4_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "music hip hop"
+    }, 
+    "Subcat3_2_4_3" : {
+        "name" : "Club", 
+        "menuLevel" : NumberInt(3241), 
+        "id" : NumberInt(3241), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_2_4_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "music mix"
+    }, 
+    "Subcat3_2_4_4" : {
+        "name" : "Space Out", 
+        "menuLevel" : NumberInt(3241), 
+        "id" : NumberInt(3241), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory3_2_4_4", 
+        "lastMenu" : "true", 
+        "searchBy" : "music mix"
+    }, 
+    "Category3_3" : {
+        "name" : "Poze", 
+        "menuLevel" : NumberInt(3), 
+        "id" : NumberInt(33), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category3_3", 
+        "lastMenu" : "false", 
+        "searchBy" : "poze"
+    }, 
+    "Menu_4" : {
+        "name" : "Suflet & Minte", 
+        "menuLevel" : NumberInt(0), 
+        "id" : NumberInt(4), 
+        "icon" : "fa fa-heart", 
+        "href" : "/folder4", 
+        "lastMenu" : "false", 
+        "searchBy" : "suflet si minte body and soul body & soul body&soul"
+    }, 
+    "Category4_1" : {
+        "name" : "Aforisme", 
+        "menuLevel" : NumberInt(4), 
+        "id" : NumberInt(4), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "aforisme aphorisms"
+    }, 
+    "Category4_2" : {
+        "name" : "Citate", 
+        "menuLevel" : NumberInt(4), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category4_2", 
+        "lastMenu" : "false", 
+        "searchBy" : "citate cited citat"
+    }, 
+    "Category4_2_1" : {
+        "name" : "Abraham Lincoln", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "Abraham Lincoln citat citate"
+    }, 
+    "Category4_2_2" : {
+        "name" : "Albert Einstein", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "Albert Einstein citat citate"
+    }, 
+    "Category4_2_3" : {
+        "name" : "Aristotel", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "Aristotel citat citate"
+    }, 
+    "Category4_2_4" : {
+        "name" : "Benjamin Franklin", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_4", 
+        "lastMenu" : "true", 
+        "searchBy" : "Benjamin Franklin citat citate"
+    }, 
+    "Category4_2_5" : {
+        "name" : "Buddha", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_5", 
+        "lastMenu" : "true", 
+        "searchBy" : "Buddha citat citate"
+    }, 
+    "Category4_2_6" : {
+        "name" : "Charles Dickens", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_6", 
+        "lastMenu" : "true", 
+        "searchBy" : "Charles Dickens citat citate"
+    }, 
+    "Category4_2_7" : {
+        "name" : "Confucius", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_7", 
+        "lastMenu" : "true", 
+        "searchBy" : "Confucius citat citate"
+    }, 
+    "Category4_2_8" : {
+        "name" : "Dalai Lama", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_8", 
+        "lastMenu" : "true", 
+        "searchBy" : "Dalai Lama citat citate"
+    }, 
+    "Category4_2_9" : {
+        "name" : "Democrit", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_9", 
+        "lastMenu" : "true", 
+        "searchBy" : "Democrit citat citate"
+    }, 
+    "Category4_2_10" : {
+        "name" : "Euripide", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_10", 
+        "lastMenu" : "true", 
+        "searchBy" : "Euripide citat citate"
+    }, 
+    "Category4_2_11" : {
+        "name" : "George Bernard Shaw", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_11", 
+        "lastMenu" : "true", 
+        "searchBy" : "George Bernard Shaw citat citate"
+    }, 
+    "Category4_2_12" : {
+        "name" : "George Washington", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_12", 
+        "lastMenu" : "true", 
+        "searchBy" : "George Washington citat citate"
+    }, 
+    "Category4_2_13" : {
+        "name" : "Immanuel Kant", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_13", 
+        "lastMenu" : "true", 
+        "searchBy" : "Immanuel Kant citat citate"
+    }, 
+    "Category4_2_14" : {
+        "name" : "Lao Tzu", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_14", 
+        "lastMenu" : "true", 
+        "searchBy" : "Lao Tzu citat citate"
+    }, 
+    "Category4_2_15" : {
+        "name" : "Lucius Annaeus Seneca", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_15", 
+        "lastMenu" : "true", 
+        "searchBy" : "Lucius Annaeus Seneca citat citate"
+    }, 
+    "Category4_2_16" : {
+        "name" : "Mahatma Gandhi", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_16", 
+        "lastMenu" : "true", 
+        "searchBy" : "Mahatma Gandhi citat citate"
+    }, 
+    "Category4_2_17" : {
+        "name" : "Maica Tereza", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_17", 
+        "lastMenu" : "true", 
+        "searchBy" : "Maica Tereza citat citate"
+    }, 
+    "Category4_2_18" : {
+        "name" : "Mark Twain", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_18", 
+        "lastMenu" : "true", 
+        "searchBy" : "Mark Twain citat citate"
+    }, 
+    "Category4_2_19" : {
+        "name" : "Martin Luther King, Jr.", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_19", 
+        "lastMenu" : "true", 
+        "searchBy" : "Martin Luther King, Jr. citat citate"
+    }, 
+    "Category4_2_20" : {
+        "name" : "Napoleon Bonaparte", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_20", 
+        "lastMenu" : "true", 
+        "searchBy" : "Napoleon Bonaparte citat citate"
+    }, 
+    "Category4_2_21" : {
+        "name" : "Neale Donald Walsh", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_21", 
+        "lastMenu" : "true", 
+        "searchBy" : "Neale Donald Walsh citat citate"
+    }, 
+    "Category4_2_22" : {
+        "name" : "Oscar Wilde", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_22", 
+        "lastMenu" : "true", 
+        "searchBy" : "Oscar Wilde citat citate"
+    }, 
+    "Category4_2_23" : {
+        "name" : "Pablo Picasso", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_23", 
+        "lastMenu" : "true", 
+        "searchBy" : "Pablo Picasso citat citate"
+    }, 
+    "Category4_2_24" : {
+        "name" : "Platon", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_24", 
+        "lastMenu" : "true", 
+        "searchBy" : "Platon citat citate"
+    }, 
+    "Category4_2_25" : {
+        "name" : "Publilius Syrus", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_25", 
+        "lastMenu" : "true", 
+        "searchBy" : "Publilius Syrus citat citate"
+    }, 
+    "Category4_2_26" : {
+        "name" : "Ralph Waldo Emerson citat citate", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_26", 
+        "lastMenu" : "true", 
+        "searchBy" : "Ralph Waldo Emerson citat citate"
+    }, 
+    "Category4_2_27" : {
+        "name" : "Richard Wurmbrand", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_27", 
+        "lastMenu" : "true", 
+        "searchBy" : "Richard Wurmbrand citat citate"
+    }, 
+    "Category4_2_28" : {
+        "name" : "Sfântul Augustin", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_28", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sfântul Augustin citat citate"
+    }, 
+    "Category4_2_29" : {
+        "name" : "Sfântul Ciprian", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_29", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sfântul Ciprian citat citate"
+    }, 
+    "Category4_2_30" : {
+        "name" : "Sfântul Ioan Gura de Aur", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_30", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sfântul Ioan Gura de Aur citat citate"
+    }, 
+    "Category4_2_31" : {
+        "name" : "Sfântul Ioan Scărarul", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_31", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sfântul Ioan Scărarul citat citate"
+    }, 
+    "Category4_2_32" : {
+        "name" : "Sfântul Irineu", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_32", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sfântul Irineu citat citate"
+    }, 
+    "Category4_2_33" : {
+        "name" : "Sfântul Petru", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_33", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sfântul Petru citat citate"
+    }, 
+    "Category4_2_34" : {
+        "name" : "Sfântul Simeon Noul Teolog", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_34", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sfântul Simeon Noul Teolog citat citate"
+    }, 
+    "Category4_2_35" : {
+        "name" : "Sfântul Vasile cel Mare", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_35", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sfântul Vasile cel Mare citat citate"
+    }, 
+    "Category4_2_36" : {
+        "name" : "Socrate", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_36", 
+        "lastMenu" : "true", 
+        "searchBy" : "Socrate citat citate"
+    }, 
+    "Category4_2_37" : {
+        "name" : "Steven Wright", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_37", 
+        "lastMenu" : "true", 
+        "searchBy" : "Steven Wright citat citate"
+    }, 
+    "Category4_2_38" : {
+        "name" : "Sun Tzu", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_38", 
+        "lastMenu" : "true", 
+        "searchBy" : "Sun Tzu citat citate"
+    }, 
+    "Category4_2_39" : {
+        "name" : "Thomas Jefferson", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_39", 
+        "lastMenu" : "true", 
+        "searchBy" : "Thomas Jefferson citat citate"
+    }, 
+    "Category4_2_40" : {
+        "name" : "William Shakespeare", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_40", 
+        "lastMenu" : "true", 
+        "searchBy" : "William Shakespeare citat citate"
+    }, 
+    "Category4_2_41" : {
+        "name" : "Winston Churchill", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_41", 
+        "lastMenu" : "true", 
+        "searchBy" : "Winston Churchill citat citate"
+    }, 
+    "Category4_2_42" : {
+        "name" : "Alte citate", 
+        "menuLevel" : NumberInt(42), 
+        "id" : NumberInt(42), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_2_42", 
+        "lastMenu" : "true", 
+        "searchBy" : "Alte citate citat citate"
+    }, 
+    "Category4_3" : {
+        "name" : "Cuvinte", 
+        "menuLevel" : NumberInt(4), 
+        "id" : NumberInt(4), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "cuvinte words"
+    }, 
+    "Category4_4" : {
+        "name" : "Devize de viaţă", 
+        "menuLevel" : NumberInt(4), 
+        "id" : NumberInt(4), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_4", 
+        "lastMenu" : "true", 
+        "searchBy" : "devize de viata"
+    }, 
+    "Category4_5" : {
+        "name" : "Lozinci", 
+        "menuLevel" : NumberInt(4), 
+        "id" : NumberInt(4), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_5", 
+        "lastMenu" : "true", 
+        "searchBy" : "lozinci slogans"
+    }, 
+    "Category4_6" : {
+        "name" : "Maxime", 
+        "menuLevel" : NumberInt(4), 
+        "id" : NumberInt(4), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_6", 
+        "lastMenu" : "true", 
+        "searchBy" : "maxime maximum"
+    }, 
+    "Category4_7" : {
+        "name" : "Proverbe", 
+        "menuLevel" : NumberInt(4), 
+        "id" : NumberInt(47), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category4_7", 
+        "lastMenu" : "false", 
+        "searchBy" : "proverbe proverbs"
+    }, 
+    "Subcat4_7_1" : {
+        "name" : "Proverbe grup 1", 
+        "menuLevel" : NumberInt(47), 
+        "id" : NumberInt(47), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory4_7_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "Proverbe grup 1"
+    }, 
+    "Subcat4_7_2" : {
+        "name" : "Proverbe grup 2", 
+        "menuLevel" : NumberInt(47), 
+        "id" : NumberInt(47), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory4_7_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "Proverbe grup 2"
+    }, 
+    "Subcat4_7_3" : {
+        "name" : "Proverbe grup 3", 
+        "menuLevel" : NumberInt(47), 
+        "id" : NumberInt(47), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory4_7_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "Proverbe grup 3"
+    }, 
+    "Subcat4_7_4" : {
+        "name" : "Proverbe grup 4", 
+        "menuLevel" : NumberInt(47), 
+        "id" : NumberInt(47), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory4_7_4", 
+        "lastMenu" : "true", 
+        "searchBy" : "Proverbe grup 4"
+    }, 
+    "Subcat4_7_5" : {
+        "name" : "Proverbe grup 5", 
+        "menuLevel" : NumberInt(47), 
+        "id" : NumberInt(47), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory4_7_5", 
+        "lastMenu" : "true", 
+        "searchBy" : "Proverbe grup 5"
+    }, 
+    "Subcat4_7_6" : {
+        "name" : "Proverbe grup 6", 
+        "menuLevel" : NumberInt(47), 
+        "id" : NumberInt(47), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory4_7_6", 
+        "lastMenu" : "true", 
+        "searchBy" : "Proverbe grup 6"
+    }, 
+    "Subcat4_7_7" : {
+        "name" : "Proverbe grup 7", 
+        "menuLevel" : NumberInt(47), 
+        "id" : NumberInt(47), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory4_7_7", 
+        "lastMenu" : "true", 
+        "searchBy" : "Proverbe grup 7"
+    }, 
+    "Category4_8" : {
+        "name" : "Facts", 
+        "menuLevel" : NumberInt(4), 
+        "id" : NumberInt(4), 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/category4_8", 
+        "lastMenu" : "true", 
+        "searchBy" : "facts fact"
+    }, 
+    "Menu_5" : {
+        "name" : "Folositoare", 
+        "menuLevel" : NumberInt(0), 
+        "id" : NumberInt(5), 
+        "icon" : "fa fa-plus-square", 
+        "href" : "/folder5", 
+        "lastMenu" : "false", 
+        "searchBy" : "folositoare useful"
+    }, 
+    "Category5_1" : {
+        "name" : "Constituatia Romaniei", 
+        "menuLevel" : NumberInt(5), 
+        "id" : NumberInt(51), 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category5_1", 
+        "lastMenu" : "false", 
+        "searchBy" : "constitutia romaniei"
+    }, 
+    "Subcat5_1_1" : {
+        "menuLevel" : NumberInt(51), 
+        "id" : NumberInt(51), 
+        "name" : "Constitutia Romaniei 1", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory5_1_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "Constitutia Romaniei 1"
+    }, 
+    "Subcat5_1_2" : {
+        "menuLevel" : NumberInt(51), 
+        "id" : NumberInt(51), 
+        "name" : "Constitutia Romaniei 2", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory5_1_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "Constitutia Romaniei 2"
+    }, 
+    "Subcat5_1_3" : {
+        "menuLevel" : NumberInt(51), 
+        "id" : NumberInt(51), 
+        "name" : "Constitutia Romaniei 3", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory5_1_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "Constitutia Romaniei 3"
+    }, 
+    "Category5_2" : {
+        "menuLevel" : NumberInt(5), 
+        "id" : NumberInt(52), 
+        "name" : "Drepturile omului", 
+        "icon" : "fa fa-folder-o", 
+        "href" : "/category5_2", 
+        "lastMenu" : "false", 
+        "searchBy" : "drepturile omului"
+    }, 
+    "Subcat5_2_1" : {
+        "menuLevel" : NumberInt(52), 
+        "id" : NumberInt(52), 
+        "name" : "Drepturile Omului 1", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory5_2_1", 
+        "lastMenu" : "true", 
+        "searchBy" : "Drepturile Omului 1"
+    }, 
+    "Subcat5_2_2" : {
+        "menuLevel" : NumberInt(52), 
+        "id" : NumberInt(52), 
+        "name" : "Drepturile Omului 2", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory5_2_2", 
+        "lastMenu" : "true", 
+        "searchBy" : "Drepturile Omului 2"
+    }, 
+    "Subcat5_2_3" : {
+        "menuLevel" : NumberInt(52), 
+        "id" : NumberInt(52), 
+        "name" : "Drepturile Omului 3", 
+        "icon" : "fa fa-angle-right", 
+        "href" : "/subcategory5_2_3", 
+        "lastMenu" : "true", 
+        "searchBy" : "Drepturile Omului 3"
+    }
+}

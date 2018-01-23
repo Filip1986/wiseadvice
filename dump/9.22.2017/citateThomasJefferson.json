@@ -1,0 +1,18 @@
+[
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039b7" }, "body" : "Instituţiile bancare sunt mai periculoase decât armatele mobilizate.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039b8" }, "body" : "Reclamele conţin singurele adevăruri pe care te poţi baza dintr-un ziar.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039b9" }, "body" : "In probleme de stil, lasa-te in voia curentului; in cele de principiu fii ca o stanca.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039ba" }, "body" : "Îmi plac mai mult visurile despre viitor decât istoriile trecutului.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039bb" }, "body" : "Nimic nu-l avantajează mai mult pe un om în faţa altuia, decât a rămâne întotdeauna calm şi netulburat în orice circumstanţă.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039bc" }, "body" : "Fericirea înseamnă să nu ai dureri în trup şi griji în minte.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039bd" }, "body" : "Nimic nu-i poate opri pe oamenii cu atitudine pozitiva; nimic nu-i poate ajuta pe cei cu mentalitate gresita.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039be" }, "body" : "Am jurat, în faţa lui Dumnezeu, duşmănie eternă faţă de orice formă de tiranie asupra minţii umane.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039bf" }, "body" : "Onestitatea este primul capitol din cartea înţelepciunii.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039c0" }, "body" : "Deosebirea de opinie este cea mai înaltă formă de patriotism.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039c1" }, "body" : "Un guvern suficient de mare, încât să-ţi dea tot ce ai nevoie, este suficient de puternic să-ţi ia tot ce posezi.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039c2" }, "body" : "Spiritul egoist al comerţului nu cunoaşte hotare şi nu are vreo pasiune sau vreun principiu decât acela al câştigului.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039c3" }, "body" : "Cel ce nu citeste este mai bine educat decat cel ce citeste doar ziare.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039c4" }, "body" : "E ciudat de absurd să presupui că un milion de fiinţe umane, adunate laolaltă, nu sunt sub aceeaşi lege morală ce ţine pe fiecare dintre ele luată separat.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039c5" }, "body" : "Am spus şi o voi mai spune: studierea atentă a Bibliei te va transforma într-un cetăţean mai bun, un tată mai bun, un soţ mai bun.", "author" : "Thomas Jefferson" },
+{ "_id" : { "$oid" : "59a0023ab77209daf8c039c6" }, "body" : "Majoritatea, când opresează un individ, este vinovată de crimă, îşi abuzează tăria, iar prin acţiune bazată pe legea celui mai tare sparge fundamentele societăţii.", "author" : "Thomas Jefferson" }
+]

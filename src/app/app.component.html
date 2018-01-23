@@ -1,0 +1,416 @@
+<router-outlet></router-outlet>
+<nav id="menu">
+  <ul>
+    <li>
+      <a href="#arta">{{'Arta' | translate}}</a>
+      <div id="arta" class="Panel">
+        <ul>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_ANUNTURI_ROMANESTI}}">{{'Anunturi Romanesti' | translate}}</a>
+          </li>
+          <li>
+            <a href="#bancuri">{{'Bancuri' | translate}}</a>
+            <div id="bancuri" class="Panel">
+              <ul>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_BANCURI_ANIMALE}}">{{'Animale' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_BANCURI_DIVERSE}}">{{'Diverse' | translate}}</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_CULMI}}">{{'Culmi' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_FABULE}}">{{'Fabule' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_GHICITORI}}">{{'Ghicitori' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_POEZII}}">{{'Poezii' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_POVESTI}}">{{'Povesti' | translate}}</a>
+          </li>
+
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="#timpLiber">{{'Timp Liber' | translate}}</a>
+      <div id="timpLiber" class="Panel">
+        <ul>
+          <li>
+            <a href="#Jocuri">{{'Jocuri' | translate}}</a>
+            <div id="Jocuri" class="Panel">
+              <ul>
+                <li>
+                  <a href="#jocurile-copilariei">{{'Jocurile Copilariei' | translate}}</a>
+                  <div id="jocurile-copilariei" class="Panel">
+                    <ul>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_JOCURI_APA_APA_FOC_FOC}}">{{'Apa apa foc foc' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_JOCURI_CAPRA}}">{{'Capra' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_JOCURI_CASTELUL_123}}">{{'Castelul 123' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_JOCURI_LAPTE_GROS}}">{{'Lapte gros' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_JOCURI_INCETUL_CU_INCETUL_SE_FABRICA_OTETUL}}">{{'Incetul' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_JOCURI_SOTRONUL}}">{{'Sotronul' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_JOCURI_NUMARATORI}}">{{'Numaratori' | translate}}</a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_JOCURI_MEMORY_GAME}}">{{'Memory Game' | translate}}</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="#liste">{{'Liste' | translate}}</a>
+      <div id="liste" class="Panel">
+        <ul>
+          <li>
+            <a href="#top-carti">{{'Top carti' | translate}}</a>
+            <div id="top-carti" class="Panel">
+              <ul>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_CARTI_CRESTINE}}">{{'Crestine' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_CARTI_INTERESANTE}}">{{'Interesante' | translate}}</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_TOP_DESENE}}">{{'Top desene' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_TOP_FILME}}">{{'Top filme' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_TOP_LISTE_UIMITOARE}}">{{'Liste Uimitoare' | translate}}</a>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="#media">{{'Media' | translate}}</a>
+      <div id="media" class="Panel">
+        <ul>
+          <li>
+            <a href="#gifs">{{'Gifs' | translate}}</a>
+            <div id="gifs" class="Panel">
+              <ul>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_GIFS_COOL}}">{{'Cool' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_GIFS_FAIL}}">{{'Fail' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_GIFS_FUNNY}}">{{'Funny' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_GIFS_INTERESTING}}">{{'Interesting' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_GIFS_WOW}}">{{'Wow' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_GIFS_REACTION}}">{{'Reaction' | translate}}</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <a href="#youtube">{{'Youtube' | translate}}</a>
+            <div id="youtube" class="Panel">
+              <ul>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_YOUTUBE_DOCUMENTARIES}}">{{'Documentaries' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_YOUTUBE_FUNNY}}">{{'Funny' | translate}}</a>
+                </li>
+                <li>
+                  <a href="{{'/#' + constants.ROUTE_YOUTUBE_CHANNELS}}">{{'Good channels' | translate}}</a>
+                </li>
+                <li>
+                  <a href="#music">{{'Music' | translate}}</a>
+                  <div id="music" class="Panel">
+                    <ul>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_MUSIC_CALM}}">{{'Calm' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_MUSIC_CHILL}}">{{'Chill' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_MUSIC_CLUB}}">{{'Club' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_MUSIC_SPACE_OUT}}">{{'Space out' | translate}}</a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_WALLPAPERS}}">{{'Wallpapers' | translate}}</a>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="#wisdom">{{'Wisdom' | translate}}</a>
+      <div id="wisdom" class="Panel">
+        <ul>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_AFORSIME_MAXIME}}">{{'Aforisme / Maxime' | translate}}</a>
+          </li>
+          <li>
+            <a href="#credinte">{{'Credinte Religii Confesiuni' | translate}}</a>
+            <div id="credinte" class="Panel">
+              <ul>
+                <li>
+                  <a href="#crestinism">{{'Crestinism' | translate}}</a>
+                  <div id="crestinism" class="Panel">
+                    <ul>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_CREZUL_CRESTIN}}">{{'Crezul Crestin' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_EREZII}}">{{'Erezii' | translate}}</a>
+                      </li>
+                      <li>
+                        <a href="{{'/#' + constants.ROUTE_SFINTII_PARINTI}}">{{'Sfintii Parinti' | translate}}</a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_DICTONURI}}">{{'Dictonuri' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_EXPRESII}}">{{'Expresii din popor' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_SANATATE}}">{{'Sanatate' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_POVETE}}">{{'Povete' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_SUPERSTITII}}">{{'Superstitii' | translate}}</a>
+          </li>
+          <li>
+            <a href="#citate">{{'Citate' | translate}}</a>
+            <div id="citate" class="Panel">
+              <ul>
+                <li>
+                  <a href="/#abraham-lincoln">{{'Abraham Lincoln' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#albert-einstein">{{'Albert Einstein' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#aristotel">{{'Aristotel' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#benjamin-franklin">{{'Benjamin Franklin' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#buddha">{{'Buddha' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#confucius">{{'Confucius' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#dalai-lama">{{'Dalai Lama' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#democrit">{{'Democrit' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#euripide">{{'Euripide' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#george-bernard-shaw">{{'George Bernard Shaw' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#george-washington">{{'George Washington' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#immanuel-kant">{{'Immanuel Kant' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#lao-tzu">{{'Lao Tzu' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#lucius-annaeus-seneca">{{'Lucius Annaeus Seneca' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#mahatma-gandhi">{{'Mahatma Gandhi' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#maica-tereza">{{'Maica Tereza' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#mark-twain">{{'Mark Twain' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#martin-luther-king-jr">{{'Martin Luther King, Jr.' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#napoleon-bonaparte">{{'Napoleon Bonaparte' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#neale-donald-walsh">{{'Neale Donald Walsh' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#oscar-wilde">{{'Oscar Wilde' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#pablo-picasso">{{'Pablo Picasso' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#platon">{{'Platon' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#publilius-syrus">{{'Publilius Syrus' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#ralph-waldo-emerson">{{'Ralph Waldo Emerson' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#richard-wurmbrand">{{'Richard Wurmbrand' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sfantul-augustin">{{'Sfantul Augustin' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sfantul-ciprian">{{'Sfantul Ciprian' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sfantul-ioan-gura-de-aur">{{'Sfantul Ioan Gura de Aur' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sfantul-ioan-scararul">{{'Sfantul Ioan Scararul' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sfantul-irineu">{{'Sfantul Irineu' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sfantul-petru">{{'Sfantul Petru' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sfantul-simeon-noul-teolog">{{'Sfantul Simeon Noul Teolog' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sfantul-vasile-cel-mare">{{'Sfantul Vasile cel Mare' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#socrates">{{'Socrates' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#steven-wright">{{'Steven Wright' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#sun-tzu">{{'Sun Tzu' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#thomas-jefferson">{{'Thomas Jefferson' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#william-shakespeare">{{'William Shakespeare' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#winston-churchill">{{'Winston Churchill' | translate}}</a>
+                </li>
+                <li>
+                  <a href="/#alte-citate">{{'Alte citate' | translate}}</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_CUVINTE}}">{{'Cuvinte' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_DEVIZE_DE_VIATA}}">{{'Devize de viata' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_LOZINCI}}">{{'Lozinci' | translate}}</a>
+          </li>
+          <li>
+            <a href="#proverbe">{{'Proverbe' | translate}}</a>
+            <div id="proverbe" class="Panel">
+              <ul>
+                <li>
+                  <a href="/#">183</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_FACTS}}">{{'Facts' | translate}}</a>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="#folositoare">{{'Folositoare' | translate}}</a>
+      <div id="folositoare" class="Panel">
+        <ul>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_CONSTITUTIA_ROMANIEI}}">{{'Constitutia Romaniei' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_DREPTURILE_OMULUI}}">{{'Drepturile Omului' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_CODUL_BUNELOR_MANIERE}}">{{'Codul Bunelor Maniere' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_CODUL_PENAL}}">{{'Codul Penal' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_IDEOLOGII}}">{{'Ideologii' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_ISTORIE}}">{{'Istorie' | translate}}</a>
+          </li>
+          <li>
+            <a href="{{'/#' + constants.ROUTE_LEGENDE_SI_MITURI}}">{{'Legende si mituri' | translate}}</a>
+          </li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+</nav>

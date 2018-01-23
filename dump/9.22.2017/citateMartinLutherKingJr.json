@@ -1,0 +1,18 @@
+[
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034e4" }, "body" : "Un om care nu are pentru ce muri, nu are pentru ce trăi.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034e5" }, "body" : "Credinţa înseamnă să faci primul pas chiar dacă nu vezi toată scara.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034e6" }, "body" : "Chiar dacă aş şti că mâine lumea s-ar destrăma în bucăţi, tot mi-aş planta mărul.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034e7" }, "body" : "Iubirea este singura forţă capabilă să transforme un inamic într-un prieten.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034e8" }, "body" : "Adevăratul pacifism nu este supunerea nerealistă faţă de puterea răului. Este mai degrabă o confruntare curajoasă cu răul folosind puterea dragostei.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034e9" }, "body" : "Nonviolenţa înseamnă nu numai evitarea violenţei fizice externe, ci şi a violenţei interne asupra spiritului. Nu doar refuzi să împuşti un om, ci refuzi şi să-l urăşti.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034ea" }, "body" : "Nimeni nu ni se va urca în cap dacă noi înşine nu-l vom pleca.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034eb" }, "body" : "Eu cred că adevărul neînarmat şi iubirea necondiţionată vor avea de spus ultimul cuvânt pentru realitate. De aceea, Dreptul, chiar dacă este învins temporar, este mai puternic decat Răul triumfător.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034ec" }, "body" : "Caracterul unui om se nu se arată în momentele de confort, ci în cele de schimbări şi controverse.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034ed" }, "body" : "Cea mai stăruitoare şi urgentă întrebare a vieţii este: ce faci tu pentru ceilalţi?", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034ee" }, "body" : "La nimic nu-ţi foloseşte să crezi în iertarea păcatelor dacă nu crezi, cu deplină convingere, că păcatele toate ţi-au fost iertate.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034ef" }, "body" : "Dumnezeu nu este interesat numai în libertatea oamenilor cu pielea maro, galbenă, roşie sau neagră. Este interesat în libertatea întregii rase umane.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034f0" }, "body" : "Trebuie să năzuim spre ţeluri paşnice prin mijloace paşnice.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034f1" }, "body" : "Progresul este fragil şi soluţia oricărei probleme ne pune în faţa unor probleme noi.", "author" : "- Martin Luther King, Jr. " },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034f2" }, "body" : "Vieţile noastre se încheie în ziua când rămânem tăcuţi în privinţa lucrurilor care contează.", "author" : "Martin Luther King, Jr." },
+{ "_id" : { "$oid" : "59a0003cb77209daf8c034f3" }, "body" : "În cele din urmă nu ne vom aminti de cuvintele duşmanilor noştri, ci de tăcerea prietenilor noştri.", "author" : "Martin Luther King, Jr." }
+]

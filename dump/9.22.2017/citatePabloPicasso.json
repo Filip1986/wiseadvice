@@ -1,0 +1,19 @@
+[
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03618" }, "body" : "Arta este o minunată minciună care ne face să ne dăm seama de adevăr.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03619" }, "body" : "Fiecare copil este un artist. Problema este cum să rămână un artist şi după ce va creşte.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c0361a" }, "body" : "Dumnezeu este realmente doar un alt artist.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c0361b" }, "body" : "Am fost surprins de folosirea abuzivă a cuvântului evoluţie. Eu nu evoluez, eu sunt. Nu există, în artă, nici trecut, nici viitor. Arta care nu este în prezent, nu va fi nici în viitor.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c0361c" }, "body" : "Artistul este un receptacul pentru emoţii care vin de peste tot: din cer, din pământ, dintr-o bucăţică de hârtie, dintr-o formă trecătoare, dintr-o pânză de păianjen.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c0361d" }, "body" : "Lasă pe mâine ceea ce doreşti să nu termini niciodată.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c0361e" }, "body" : "Dacă vine inspiraţia, mă va găsi pictând.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c0361f" }, "body" : "Când eram mic mama mi-a spus: 'Dacă te duci în armată, vei deveni general. Dacă te duci la seminarul teologic, vei deveni Papă.' În schimb am dvenit artist şi sunt Picasso.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03620" }, "body" : "Eu nu caut, eu găsesc.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03621" }, "body" : "E nevoie de foarte mult timp pentru a fi tânăr.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03622" }, "body" : "Munca e vitală pentru om. Omul a inventat ceasul deşteptător.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03623" }, "body" : "Cine reflectă mai bine chipul omului: fotograful, oglinda sau pictorul?", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03624" }, "body" : "Nu există artă abstractă. Trebuie să începi cu ceva. Apoi îndepărtezi orice urmă de realitate.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03625" }, "body" : "Întâmplări - încerci să le schimbi cursul, dar e imposibil. Întâmplarea dezvăluie adevaratul om.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03626" }, "body" : "Arta scutură din suflet praful adunat în viaţa de toate zilele.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03627" }, "body" : "Calculatoarele nu au nicio valoare. Nu-ţi pot oferi decât răspunsuri.", "author" : "Pablo Picasso" },
+{ "_id" : { "$oid" : "59a000b0b77209daf8c03628" }, "body" : "Încerc mereu să fac ceea ce nu ştiu să fac, pentru a învăţa cum să fac.", "author" : "Pablo Picasso" }
+]

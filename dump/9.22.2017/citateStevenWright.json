@@ -1,0 +1,9 @@
+[
+{ "_id" : { "$oid" : "59a00218b77209daf8c03973" }, "body" : "Dacă păpușa Barbie e atât de populară, de ce trebuie să-i cumperi prieteni?", "author" : "Steven Wright" },
+{ "_id" : { "$oid" : "59a00218b77209daf8c03974" }, "body" : "O conștiință curată este de obicei indiciul pentru o memorie proastă.", "author" : "Steven Wright" },
+{ "_id" : { "$oid" : "59a00218b77209daf8c03975" }, "body" : "Munca grea te răsplătește în viitor, lenea te răsplătește pe loc.", "author" : "Steven Wright" },
+{ "_id" : { "$oid" : "59a00218b77209daf8c03976" }, "body" : "Când totul pare să vină spre tine, probabil ești pe sensul de circulație opus?", "author" : "Steven Wright" },
+{ "_id" : { "$oid" : "59a00218b77209daf8c03977" }, "body" : "Poți ajunge oriunde pe jos, dacă ai ambiție.", "author" : "Steven Wright" },
+{ "_id" : { "$oid" : "59a00218b77209daf8c03978" }, "body" : "E bine să ții cont de ceea ce simt cei din jurul tău, dar nu opri mașina de teamă că au amețit roțile.", "author" : "Steven Wright" },
+{ "_id" : { "$oid" : "59a00218b77209daf8c03979" }, "body" : "99% dintre avocați fac celorlalți o imagine proastă.", "author" : "Steven Wright" }
+]
