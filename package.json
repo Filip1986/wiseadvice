@@ -7,7 +7,7 @@
     "e2e": "ng e2e",
     "lint": "ng lint",
     "ng": "ng",
-    "start": "ng serve --proxy-config proxy.conf-default.json --port 3500 --sourcemap=false",
+    "start": "ng serve --proxy-config proxy.conf-default.json --sourcemap=false",
     "test": "ng test"
   },
   "private": true,
