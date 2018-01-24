@@ -25,8 +25,7 @@ var db = mongoose.connection;
 
 mongoose.connect('mongodb://localhost:27017/wiseadvice', {
   keepAlive: true,
-  reconnectTries: Number.MAX_VALUE,
-  useMongoClient: true
+  reconnectTries: Number.MAX_VALUE
 });
 
 db.on('error',function (err) {
