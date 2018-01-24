@@ -2,12 +2,14 @@
   "name": "angular4-list",
   "version": "0.0.0",
   "license": "MIT",
+  "angular-cli": {},
   "scripts": {
     "build": "ng build --sourcemap=false",
     "e2e": "ng e2e",
     "lint": "ng lint",
     "ng": "ng",
     "start": "ng serve --proxy-config proxy.conf-default.json --sourcemap=false",
+    "postinstall": "node server.js",
     "test": "ng test"
   },
   "private": true,
