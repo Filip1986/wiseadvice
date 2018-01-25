@@ -15,7 +15,6 @@
     "ng": "ng",
     "start": "http-server dist/",
     "preinstall":   "npm install -g http-server",
-    "postinstall": "ng build",
     "test": "ng test"
   },
   "private": true,
