@@ -3,18 +3,22 @@
   "version": "0.0.0",
   "license": "MIT",
   "angular-cli": {},
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  },
   "scripts": {
     "build": "ng build --sourcemap=false",
     "e2e": "ng e2e",
     "lint": "ng lint",
     "ng": "ng",
-    "start": "ng serve --proxy-config proxy.conf-default.json --sourcemap=false",
-    "postinstall": "node server.js",
+    "start": "node server.js",
+    "postinstall": "ng build --aot -prods",
     "test": "ng test"
   },
   "private": true,
   "dependencies": {
-  	 "@angular/cli": "1.6.5",
+    "@angular/cli": "1.6.5",
     "@angular/compiler-cli": "5.2.1",
     "@angular/animations": "5.2.1",
     "@angular/cdk": "5.1.0",
