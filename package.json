@@ -5,15 +5,17 @@
   "angular-cli": {},
   "engines": {
     "node": "8.9.4",
-    "npm": "5.6.0"
+    "npm": "5.6.0",
+    "yarn": "1.2.1"
   },
   "scripts": {
     "build": "ng build --sourcemap=false",
     "e2e": "ng e2e",
     "lint": "ng lint",
     "ng": "ng",
-    "start": "node server.js",
-    "postinstall": "ng build --aot",
+    "start": "http-server dist/",
+    "preinstall":   "npm install -g http-server",
+    "postinstall": "ng build",
     "test": "ng test"
   },
   "private": true,
