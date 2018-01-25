@@ -14,7 +14,8 @@
     "lint": "ng lint",
     "ng": "ng",
     "start": "http-server dist/",
-    "preinstall":   "npm install -g http-server",
+    "preinstall":  "npm install -g http-server",
+    "postinstall": "node server.js",
     "test": "ng test"
   },
   "private": true,
